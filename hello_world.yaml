@@ -1,5 +1,5 @@
 - name: Hello World Sample
-  hosts: Port 12
+  hosts: 10.0.2.53
   tasks:
     - name: Hello Message
       debug:
